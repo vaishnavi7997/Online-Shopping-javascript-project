@@ -18,4 +18,9 @@ A simple shopping cart application built using HTML, CSS, and JavaScript, allowi
 5️⃣ Clicking "Clear Cart" removes all items.
 6️⃣ Clicking "Sort by Price" arranges cart items in ascending order.
 
+📌 How to Use?
+
+1) Clone this repo: git clone https://github.com/vaishnavi7997/online-shopping-javascript-project.git
+2) Open any .js file and run it in the browser console or Node.js.
+
 🔗 Play with the Shopping Cart (https://online-shopping-javascript-project.netlify.app/)
